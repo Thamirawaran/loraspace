@@ -1,0 +1,376 @@
+{
+  "character": [
+    {
+      "id": "character_1",
+      "name": "SL Assorted Female Nobodies XL",
+      "version": "CamelliaXL",
+      "creator": "ShubbleLover",
+      "base_model": "SDXL 1.0",
+      "source": "https://civitai.com/models/160073?modelVersionId=180123",
+      "civitai_model_id": 160073,
+      "civitai_version_id": 180123,
+      "sha256": "c793c742c45485204445f82f3e690878a9795c50cdf0e88a99cfb2740f8e9d21",
+      "trigger": [
+        "CamelliaXL",
+        "a young woman",
+        "detailed face"
+      ],
+      "distribution": "hosted",
+      "rank": 32,
+      "alpha": 16.0,
+      "concept": "woman",
+      "hf_repo": "Thamirawaran/loraspace-pools",
+      "hf_path": "pool_c/character_1.safetensors"
+    },
+    {
+      "id": "character_2",
+      "name": "SL Assorted Female Nobodies XL",
+      "version": "HelenaXL",
+      "creator": "ShubbleLover",
+      "base_model": "SDXL 1.0",
+      "source": "https://civitai.com/models/160073?modelVersionId=182484",
+      "civitai_model_id": 160073,
+      "civitai_version_id": 182484,
+      "sha256": "dda1a8f1960ec45a3132d91908a61355a37741a05a3b98fcbee5bcdcfe5a2853",
+      "trigger": [
+        "HelenaXL",
+        "a young woman",
+        "detailed face"
+      ],
+      "distribution": "hosted",
+      "rank": 32,
+      "alpha": 16.0,
+      "concept": "woman",
+      "hf_repo": "Thamirawaran/loraspace-pools",
+      "hf_path": "pool_c/character_2.safetensors"
+    },
+    {
+      "id": "character_3",
+      "name": "SL Assorted Female Nobodies XL",
+      "version": "VioletXL",
+      "creator": "ShubbleLover",
+      "base_model": "SDXL 1.0",
+      "source": "https://civitai.com/models/160073?modelVersionId=241816",
+      "civitai_model_id": 160073,
+      "civitai_version_id": 241816,
+      "sha256": "2fe9c6b0e508853e26731466adcf49720d43edfefa0c6578982c3c2f783a36ea",
+      "trigger": [
+        "VioletXL",
+        "a young woman",
+        "detailed face"
+      ],
+      "distribution": "hosted",
+      "rank": 32,
+      "alpha": 16.0,
+      "concept": "woman",
+      "hf_repo": "Thamirawaran/loraspace-pools",
+      "hf_path": "pool_c/character_3.safetensors"
+    }
+  ],
+  "background": [
+    {
+      "id": "background_1",
+      "name": "Polyhedron: Lighting/Location SDXL: Catwalk",
+      "version": "V1.0",
+      "creator": "Polyhedron_AI",
+      "base_model": "SDXL 1.0",
+      "source": "https://civitai.com/models/263248?modelVersionId=296806",
+      "civitai_model_id": 263248,
+      "civitai_version_id": 296806,
+      "sha256": "837e2f3e8751bf881f281c7ef59c0476ecf0603fc9a25c0a3a642dda51df5981",
+      "trigger": [
+        "catwalk",
+        "runway",
+        "fashion show"
+      ],
+      "distribution": "hosted",
+      "rank": 128,
+      "alpha": 1.0,
+      "hf_repo": "Thamirawaran/loraspace-pools",
+      "hf_path": "pool_c/background_1.safetensors"
+    },
+    {
+      "id": "background_3",
+      "name": "Polyhedron: Environment, Location SDXL: ⚡︎ POWER GRID! ⚡︎",
+      "version": "v1.0",
+      "creator": "Polyhedron_AI",
+      "base_model": "SDXL 1.0",
+      "source": "https://civitai.com/models/368990?modelVersionId=412311",
+      "civitai_model_id": 368990,
+      "civitai_version_id": 412311,
+      "sha256": "e99b184a973268fa3f24ea5dba57845fa74b595873976721fe51310a6e7aa91c",
+      "trigger": [
+        "energy",
+        "high voltage",
+        "low voltage",
+        "power pole",
+        "transformer station",
+        "tangled cables",
+        "medium voltage"
+      ],
+      "distribution": "hosted",
+      "rank": 128,
+      "alpha": 1.0,
+      "hf_repo": "Thamirawaran/loraspace-pools",
+      "hf_path": "pool_c/background_3.safetensors"
+    },
+    {
+      "id": "background_4",
+      "name": "Polyhedron: Environment, Botany: Dandelions // SDXL",
+      "version": "v1.0",
+      "creator": "Polyhedron_AI",
+      "base_model": "SDXL 1.0",
+      "source": "https://civitai.com/models/433835?modelVersionId=483257",
+      "civitai_model_id": 433835,
+      "civitai_version_id": 483257,
+      "sha256": "703355ec53bafb79198541ee30db22dfb8f53f84b6015ac4283e2bf3b62cbd8e",
+      "trigger": [
+        "dandelion",
+        "dandelion seed",
+        "dandelion seed head",
+        "yellow dandelion"
+      ],
+      "distribution": "hosted",
+      "rank": 128,
+      "alpha": 1.0,
+      "hf_repo": "Thamirawaran/loraspace-pools",
+      "hf_path": "pool_c/background_4.safetensors"
+    }
+  ],
+  "lighting": [
+    {
+      "id": "lighting_2",
+      "name": "Polyhedron: Lighting SDXL: GOD RAYS",
+      "version": "v1.0",
+      "creator": "Polyhedron_AI",
+      "base_model": "SDXL 1.0",
+      "source": "https://civitai.com/models/161831?modelVersionId=182184",
+      "civitai_model_id": 161831,
+      "civitai_version_id": 182184,
+      "sha256": "acf17fc8a5f5effbee84ea26d8fb7728c68c8850fb3a5497e8d8dd7bdcd7041a",
+      "trigger": [
+        "god rays",
+        "sunbeams",
+        "sunbeam"
+      ],
+      "distribution": "hosted",
+      "rank": 128,
+      "alpha": 1.0,
+      "hf_repo": "Thamirawaran/loraspace-pools",
+      "hf_path": "pool_c/lighting_2.safetensors"
+    },
+    {
+      "id": "lighting_3",
+      "name": "Polyhedron: Lighting SDXL: Chiaroscuro",
+      "version": "v1.0",
+      "creator": "Polyhedron_AI",
+      "base_model": "SDXL 1.0",
+      "source": "https://civitai.com/models/146662?modelVersionId=163391",
+      "civitai_model_id": 146662,
+      "civitai_version_id": 163391,
+      "sha256": "7eeee0246a58c1f1fdff288960a272267705334c7cfee12e12bb383a090433be",
+      "trigger": [
+        "chiaroscuro style",
+        "dim light"
+      ],
+      "distribution": "hosted",
+      "rank": 128,
+      "alpha": 1.0,
+      "hf_repo": "Thamirawaran/loraspace-pools",
+      "hf_path": "pool_c/lighting_3.safetensors"
+    },
+    {
+      "id": "lighting_4",
+      "name": "Polyhedron: Lighting SDXL: Fog",
+      "version": "v1.0",
+      "creator": "Polyhedron_AI",
+      "base_model": "SDXL 1.0",
+      "source": "https://civitai.com/models/211173?modelVersionId=237874",
+      "civitai_model_id": 211173,
+      "civitai_version_id": 237874,
+      "sha256": "c54012e93aaf68943880f15611a300c430ed480731157de5d6233341a8ac7f36",
+      "trigger": [
+        "fog ",
+        "haze",
+        "foggy",
+        "mist"
+      ],
+      "distribution": "hosted",
+      "rank": 128,
+      "alpha": 1.0,
+      "hf_repo": "Thamirawaran/loraspace-pools",
+      "hf_path": "pool_c/lighting_4.safetensors"
+    },
+    {
+      "id": "lighting_5",
+      "name": "Polyhedron: Lighting SDXL: Golden Hour",
+      "version": "v1.0",
+      "creator": "Polyhedron_AI",
+      "base_model": "SDXL 1.0",
+      "source": "https://civitai.com/models/188248?modelVersionId=211400",
+      "civitai_model_id": 188248,
+      "civitai_version_id": 211400,
+      "sha256": "34a90cb2e51f0b59d28368892d35b0aa2da138ff0880c112b42de1e9a01c0b7c",
+      "trigger": [
+        "golden hour",
+        "sunset",
+        "sunrise"
+      ],
+      "distribution": "hosted",
+      "rank": 128,
+      "alpha": 1.0,
+      "hf_repo": "Thamirawaran/loraspace-pools",
+      "hf_path": "pool_c/lighting_5.safetensors"
+    }
+  ],
+  "material": [
+    {
+      "id": "material_1",
+      "name": "Polyhedron: Materials SDXL: Corrosion",
+      "version": "v1.0",
+      "creator": "Polyhedron_AI",
+      "base_model": "SDXL 1.0",
+      "source": "https://civitai.com/models/290504?modelVersionId=326562",
+      "civitai_model_id": 290504,
+      "civitai_version_id": 326562,
+      "sha256": "252ddf0544e20d8a5e4a13cbd20ded2cbef9d6c2b68567a6956f4e6f684d6b2a",
+      "trigger": [
+        "corrosion",
+        "rust"
+      ],
+      "distribution": "hosted",
+      "rank": 128,
+      "alpha": 1.0,
+      "hf_repo": "Thamirawaran/loraspace-pools",
+      "hf_path": "pool_c/material_1.safetensors"
+    },
+    {
+      "id": "material_2",
+      "name": "Polyhedron: Materials SDXL: Old Wood",
+      "version": "v1.0",
+      "creator": "Polyhedron_AI",
+      "base_model": "SDXL 1.0",
+      "source": "https://civitai.com/models/325535?modelVersionId=364934",
+      "civitai_model_id": 325535,
+      "civitai_version_id": 364934,
+      "sha256": "f5d14c2f4f961cd103aa5a51428ee8d48f417467cee2388742f237d83e8f7dc6",
+      "trigger": [
+        "old wood",
+        "wooden planks",
+        "wooden wall",
+        "wooden floor",
+        "old wooden"
+      ],
+      "distribution": "hosted",
+      "rank": 128,
+      "alpha": 1.0,
+      "hf_repo": "Thamirawaran/loraspace-pools",
+      "hf_path": "pool_c/material_2.safetensors"
+    },
+    {
+      "id": "material_3",
+      "name": "Polyhedron: Materials SDXL: Old Gold",
+      "version": "v1.0",
+      "creator": "Polyhedron_AI",
+      "base_model": "SDXL 1.0",
+      "source": "https://civitai.com/models/273942?modelVersionId=308755",
+      "civitai_model_id": 273942,
+      "civitai_version_id": 308755,
+      "sha256": "a0d4f7271c00c257893ba9e968bd79a79829d84268b02d85477b39fd7bd06d6e",
+      "trigger": [
+        "gold",
+        "old gold"
+      ],
+      "distribution": "hosted",
+      "rank": 128,
+      "alpha": 1.0,
+      "hf_repo": "Thamirawaran/loraspace-pools",
+      "hf_path": "pool_c/material_3.safetensors"
+    },
+    {
+      "id": "material_4",
+      "name": "Polyhedron: Materials SDXL: Old Copper",
+      "version": "v1.0",
+      "creator": "Polyhedron_AI",
+      "base_model": "SDXL 1.0",
+      "source": "https://civitai.com/models/251246?modelVersionId=283485",
+      "civitai_model_id": 251246,
+      "civitai_version_id": 283485,
+      "sha256": "74f268dd5c3759a9e6858917189bbe91c8cb11ea41704c075d42097a2ca3b5aa",
+      "trigger": [
+        "old copper",
+        "copper",
+        "patina",
+        "copper pot"
+      ],
+      "distribution": "hosted",
+      "rank": 128,
+      "alpha": 1.0,
+      "hf_repo": "Thamirawaran/loraspace-pools",
+      "hf_path": "pool_c/material_4.safetensors"
+    }
+  ],
+  "expression": [
+    {
+      "id": "expression_1",
+      "name": "Polyhedron: Facial Expressions SDXL: Anger (female)",
+      "version": "v1.0",
+      "creator": "Polyhedron_AI",
+      "base_model": "SDXL 1.0",
+      "source": "https://civitai.com/models/158024?modelVersionId=177553",
+      "civitai_model_id": 158024,
+      "civitai_version_id": 177553,
+      "sha256": "f8d03c1ae7aeb9da6e49f8722c4f15910fc52b24290e25c5b9db3848d8e4017a",
+      "trigger": [
+        "anger ",
+        "screaming",
+        "angry"
+      ],
+      "distribution": "hosted",
+      "rank": 128,
+      "alpha": 1.0,
+      "hf_repo": "Thamirawaran/loraspace-pools",
+      "hf_path": "pool_c/expression_1.safetensors"
+    },
+    {
+      "id": "expression_3",
+      "name": "Polyhedron: Facial Expressions SDXL: Fear (female)",
+      "version": "v1.0",
+      "creator": "Polyhedron_AI",
+      "base_model": "SDXL 1.0",
+      "source": "https://civitai.com/models/171708?modelVersionId=192887",
+      "civitai_model_id": 171708,
+      "civitai_version_id": 192887,
+      "sha256": "ac59dda02689913503c3dd33a0767bb084581a31d132c6ee3fa379be5fd14caa",
+      "trigger": [
+        "fear",
+        "fearful",
+        "anxious"
+      ],
+      "distribution": "hosted",
+      "rank": 128,
+      "alpha": 1.0,
+      "hf_repo": "Thamirawaran/loraspace-pools",
+      "hf_path": "pool_c/expression_3.safetensors"
+    }
+  ],
+  "accessory": [
+    {
+      "id": "accessory_3",
+      "name": "Sunglasses on top of head (sdxl)",
+      "version": "V1",
+      "creator": null,
+      "base_model": "SDXL 1.0",
+      "source": "https://civitai.com/models/462726?modelVersionId=514911",
+      "civitai_model_id": 462726,
+      "civitai_version_id": 514911,
+      "sha256": "82267376a25e54fed2cdf9f84500a95508b5a712db54f0c3256e20996c36697d",
+      "trigger": [
+        "with sunglasses on top of head"
+      ],
+      "distribution": "link-only",
+      "rank": 32,
+      "alpha": 16.0
+    }
+  ]
+}

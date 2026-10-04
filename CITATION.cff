@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "LoRASpace"
+type: software
+license: MIT
+repository-code: "https://github.com/Thamirawaran/loraspace"
+url: "https://thamirawaran.github.io/loraspace"
+version: 1.0.0
+authors:
+  - family-names: Sathiyalogeswaran
+    given-names: Thamirawaran
+  - family-names: De Silva
+    given-names: Navindu
+  - family-names: Siriwardane
+    given-names: Chamikara
+  - family-names: Alwis
+    given-names: W K
+  - family-names: Mars
+    given-names: Jason
+  - family-names: Perera Miriya Thanthrige
+    given-names: Udaya Sampath K.
+  - family-names: Rodrigo
+    given-names: Ranga
+preferred-citation:
+  type: conference-paper
+  title: "LoRASpace: A Pool-Wide Shared Substrate for Static and Dynamic Multi-LoRA Composition"
+  collection-title: "Advances in Neural Information Processing Systems"
+  conference:
+    name: "NeurIPS 2026"
+  year: 2026
+  authors:
+    - family-names: Sathiyalogeswaran
+      given-names: Thamirawaran
+    - family-names: De Silva
+      given-names: Navindu
+    - family-names: Siriwardane
+      given-names: Chamikara
+    - family-names: Alwis
+      given-names: W K
+    - family-names: Mars
+      given-names: Jason
+    - family-names: Perera Miriya Thanthrige
+      given-names: Udaya Sampath K.
+    - family-names: Rodrigo
+      given-names: Ranga

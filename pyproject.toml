@@ -1,0 +1,45 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "loraspace"
+version = "1.0.0"
+description = "One pool-wide shared subspace for static and dynamic multi-LoRA composition (NeurIPS 2026)"
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.9"
+authors = [
+  { name = "Thamirawaran Sathiyalogeswaran" },
+  { name = "Navindu De Silva" },
+  { name = "Chamikara Siriwardane" },
+  { name = "W K Alwis" },
+  { name = "Jason Mars" },
+  { name = "Udaya Sampath K. Perera Miriya Thanthrige" },
+  { name = "Ranga Rodrigo" },
+]
+dependencies = [
+  "torch>=2.0",
+  "safetensors>=0.4",
+  "huggingface_hub>=0.20",
+]
+
+[project.optional-dependencies]
+diffusion = ["diffusers>=0.26", "transformers>=4.38", "accelerate>=0.27"]
+llm = [
+  "transformers>=4.38",
+  "accelerate>=0.27",
+  "faiss-cpu",
+  "InstructorEmbedding==1.0.1",
+  "sentence-transformers==2.2.2",
+]
+
+[project.urls]
+Homepage = "https://thamirawaran.github.io/loraspace"
+Repository = "https://github.com/Thamirawaran/loraspace"
+
+[tool.setuptools.packages.find]
+include = ["loraspace*"]
+
+[tool.setuptools.package-data]
+loraspace = ["data/*.json"]

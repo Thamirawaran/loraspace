@@ -1,0 +1,179 @@
+{
+  "character": [
+    {
+      "id": "character_1",
+      "name": "Real-person likeness LoRA (removed from Civitai, not redistributed)",
+      "base_model": "SD 1.5",
+      "sha256": "c9598ba3470c9529ba2bb386a0bf74bcdcac5e6c4efcfde70067755f3b76316a",
+      "trigger": [],
+      "distribution": "unavailable"
+    },
+    {
+      "id": "character_2",
+      "name": "Real-person likeness LoRA (removed from Civitai, not redistributed)",
+      "base_model": "SD 1.5",
+      "sha256": "ad21a3598c2dd87bb3188f146d789aa2f077ef483a17004a5de7c1880ac032f1",
+      "trigger": [],
+      "distribution": "unavailable"
+    },
+    {
+      "id": "character_3",
+      "name": "Real-person likeness LoRA (removed from Civitai, not redistributed)",
+      "base_model": "SD 1.5",
+      "sha256": "542cf4ffee4d02a512187cf4fa3c44e7aebdadbc6a9b7108849daa1b7287c027",
+      "trigger": [],
+      "distribution": "unavailable"
+    }
+  ],
+  "clothing": [
+    {
+      "id": "clothing_1",
+      "name": "Thai university uniform",
+      "version": "v2",
+      "creator": "Prompt_Play",
+      "base_model": "SD 1.5",
+      "source": "https://civitai.com/models/12657?modelVersionId=58690",
+      "civitai_model_id": 12657,
+      "civitai_version_id": 58690,
+      "sha256": "97b07b612bdcd5a26f19481f173d573a0856c750daa2cd69227eaa989773153b",
+      "trigger": [
+        "mahalaiuniform",
+        "white shirt short sleeves",
+        "black pencil skirt"
+      ],
+      "distribution": "hosted",
+      "hf_repo": "Thamirawaran/loraspace-pools",
+      "hf_path": "pool_a/clothing_1.safetensors"
+    },
+    {
+      "id": "clothing_2",
+      "name": "School Dress Collection By Stable Yogi",
+      "version": "White Blue",
+      "creator": "Stable_Yogi",
+      "base_model": "SD 1.5",
+      "source": "https://civitai.com/models/201305?modelVersionId=291486",
+      "civitai_model_id": 201305,
+      "civitai_version_id": 291486,
+      "sha256": "24e162ae51a4588c8fbf869e10bd34a06789b8c38e80b9ddb9793185999d8a69",
+      "trigger": [
+        "school uniform",
+        "white shirt",
+        "red tie",
+        "blue pleated microskirt"
+      ],
+      "distribution": "link-only"
+    }
+  ],
+  "style": [
+    {
+      "id": "style_1",
+      "name": "Japan Vibes - Film color",
+      "version": "v1.1 - Heavy_grain",
+      "creator": "buzimage",
+      "base_model": "SD 1.5",
+      "source": "https://civitai.com/models/90393?modelVersionId=107032",
+      "civitai_model_id": 90393,
+      "civitai_version_id": 107032,
+      "sha256": "11c5b684b502915273e40a8d0a50473c9ab3ec98e6fa5baed307b672da5fcf08",
+      "trigger": [
+        "film overlay",
+        "film grain"
+      ],
+      "distribution": "hosted",
+      "hf_repo": "Thamirawaran/loraspace-pools",
+      "hf_path": "pool_a/style_1.safetensors"
+    },
+    {
+      "id": "style_2",
+      "name": "Brightness Tweaker LoRA (亮度调整LoRA)",
+      "version": "v1.0",
+      "creator": "ITvovTI",
+      "base_model": "SD 1.5",
+      "source": "https://civitai.com/models/70034?modelVersionId=74697",
+      "civitai_model_id": 70034,
+      "civitai_version_id": 74697,
+      "sha256": "d30f24f6fc64a59d223dc588082a0c1fd9f9276436d65e4632d46820c0d9c219",
+      "trigger": [
+        "bright lighting"
+      ],
+      "distribution": "hosted",
+      "hf_repo": "Thamirawaran/loraspace-pools",
+      "hf_path": "pool_a/style_2.safetensors"
+    }
+  ],
+  "background": [
+    {
+      "id": "background_1",
+      "name": "Library bookshelf",
+      "version": "v1.6",
+      "creator": "fok3827",
+      "base_model": "SD 1.5",
+      "source": "https://civitai.com/models/113488?modelVersionId=125699",
+      "civitai_model_id": 113488,
+      "civitai_version_id": 125699,
+      "sha256": "906aab248af12eb1826a6ccac7612f9140de7fa377d92ed5c391824fafcf895b",
+      "trigger": [
+        "lib_bg",
+        "library bookshelf"
+      ],
+      "distribution": "hosted",
+      "hf_repo": "Thamirawaran/loraspace-pools",
+      "hf_path": "pool_a/background_1.safetensors"
+    },
+    {
+      "id": "background_2",
+      "name": "The forest light",
+      "version": "v3.0",
+      "creator": "fok3827",
+      "base_model": "SD 1.5",
+      "source": "https://civitai.com/models/104292?modelVersionId=127699",
+      "civitai_model_id": 104292,
+      "civitai_version_id": 127699,
+      "sha256": "bc53aecf455ec546177b1213a76df7dacaf81c1a03fa8b4cfd7a68dcac2dacbf",
+      "trigger": [
+        "slg",
+        "river",
+        "forest"
+      ],
+      "distribution": "hosted",
+      "hf_repo": "Thamirawaran/loraspace-pools",
+      "hf_path": "pool_a/background_2.safetensors"
+    }
+  ],
+  "object": [
+    {
+      "id": "object_1",
+      "name": "umbrellaLORA",
+      "version": "v1.0",
+      "creator": "str4nger",
+      "base_model": "SD 1.5",
+      "source": "https://civitai.com/models/54218?modelVersionId=58578",
+      "civitai_model_id": 54218,
+      "civitai_version_id": 58578,
+      "sha256": "9524ee84b5c5ac77d3c1461103731e2645032e70d79f757a2dd8e705ecaabd2a",
+      "trigger": [
+        "transparent umbrella"
+      ],
+      "distribution": "hosted",
+      "hf_repo": "Thamirawaran/loraspace-pools",
+      "hf_path": "pool_a/object_1.safetensors"
+    },
+    {
+      "id": "object_2",
+      "name": "Bubble Gum (バブルガム / 泡泡糖 / Kaugummi) v2.0",
+      "version": "v2.0",
+      "creator": "Jehovah",
+      "base_model": "SD 1.5",
+      "source": "https://civitai.com/models/97550?modelVersionId=117038",
+      "civitai_model_id": 97550,
+      "civitai_version_id": 117038,
+      "sha256": "555e9639f1959262238a05cffce4e81205c5e301d90791e95ddd6208f825eded",
+      "trigger": [
+        "bubble gum"
+      ],
+      "distribution": "hosted",
+      "hf_repo": "Thamirawaran/loraspace-pools",
+      "hf_path": "pool_a/object_2.safetensors"
+    }
+  ]
+}
