@@ -4,7 +4,7 @@
 
 Thamirawaran Sathiyalogeswaran, Navindu De Silva, Chamikara Siriwardane, W K Alwis, Jason Mars, Udaya Sampath K. Perera Miriya Thanthrige, Ranga Rodrigo
 
-[Project page](https://thamirawaran.github.io/loraspace) | [Paper (OpenReview)](https://openreview.net/forum?id=edpJ8ipgAp) | [LoRA pools](https://huggingface.co/datasets/Thamirawaran/loraspace-pools)
+[Project page](https://thamirawaran.github.io/loraspace) | [Paper (arXiv)](https://arxiv.org/abs/2610.27444) | [LoRA pools](https://huggingface.co/datasets/Thamirawaran/loraspace-pools)
 
 ![Five SDXL LoRAs composed: merge loses two of them, composite needs 5 UNet passes, LoRASpace needs 1](assets/teaser.webp)
 
